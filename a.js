@@ -1,2 +1,6 @@
-console.log('Hello world.');
-console.log('init1003');
+// var a = 1;
+let b = 2;
+const c = 3;
+// d = 4;
+d = 10;
+console.log(b, c, d);
